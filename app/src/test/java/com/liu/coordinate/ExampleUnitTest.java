@@ -1,4 +1,4 @@
-package com.liu.testjni;
+package com.liu.coordinate;
 
 import org.junit.Test;
 

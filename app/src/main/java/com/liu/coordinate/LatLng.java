@@ -1,4 +1,4 @@
-package com.liu.testjni;
+package com.liu.coordinate;
 
 /**
  * Created by Liu on 2017/5/9.
